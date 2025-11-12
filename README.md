@@ -1,4 +1,7 @@
 ![LUMACOD](https://github.com/paolaporracciolo/LUMACOD/blob/main/MTpipeline_v5.pdf)
+[View Pipeline Diagram (PDF)](MTpipeline_v5.pdf)
+
+[![Pipeline](pipeline_thumbnail.png)](MTpipeline_v5.pdf)
 
 # Description of the pipeline
  1. The pipeline selects high-quality mitochondrial sequencing reads.
