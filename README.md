@@ -7,8 +7,6 @@
  4. On this filtered signal, it runs **mitochondrial variant calling** (calculation of *mutation frequencies*) and selects the most robust mutations (e.g., detected on both DNA strands). Then, mutation tables are produced.
 
 ## Packages info
-The packages are installed through conda ![Conda](https://img.shields.io/badge/conda-23.5.0-green.svg) 
-
-MT_pipeline uses: ![Python](https://img.shields.io/badge/python-3.10.14-blue.svg?logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-4.5.1-blue.svg?logo=r)
-
-It runs mitochondrial variant calling using: ![mgatk](https://img.shields.io/badge/mgatk-0.7.1-orange.svg)
+- The packages are installed through conda ![Conda](https://img.shields.io/badge/conda-23.5.0-green.svg) 
+- MT_pipeline uses: ![Python](https://img.shields.io/badge/python-3.10.14-blue.svg?logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-4.5.1-blue.svg?logo=r)
+- It runs mitochondrial variant calling using: ![mgatk](https://img.shields.io/badge/mgatk-0.7.1-orange.svg)
