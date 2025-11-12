@@ -1,4 +1,4 @@
-# ![LUMACOD](MTpipeline_v5.pdf) 
+# ![LUMACOD](/MTpipeline_v5.pdf) 
 
 # Description of the pipeline
  1. The pipeline selects high-quality mitochondrial sequencing reads.
