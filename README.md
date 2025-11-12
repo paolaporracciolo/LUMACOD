@@ -1,6 +1,7 @@
 ![LUMACOD](MTpipeline_v5.svg)
 
-MT_pipeline treats scRNA-Seq and bulk RNA-Seq data. It calculates low-frequency mutations in the mitochondrial genome and variations in heteroplasmy levels.
+$\Huge{\textsf{MT_pipeline treats scRNA-Seq and bulk RNA-Seq data.}}$
+$\Huge{\textsf{It calculates low-frequency mutations in the mitochondrial genome and variations in heteroplasmy levels.}}$
 
 Two premises 📋 for pulmonary data:
 1. Random mitochondrial mutations (at low allelic frequencies) in pulmonary cells can be a proxy of damage induced by the smoke of the cigarette.
